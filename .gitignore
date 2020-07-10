@@ -1,0 +1,10 @@
+# Python Packages
+bin/
+certifi*/
+chardet*/
+idna*/
+requests*/
+urllib3*/
+
+# For AWS Lambda Uploading
+*.zip
